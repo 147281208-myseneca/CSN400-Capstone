@@ -8,4 +8,4 @@ CHECKPOINT 1 SUBMISSION
 
 •	GITHUB ID:                           147281208-myseneca
 
-•	TEACHER’S NAME:              ATOOSA NATARI
+•	TEACHER’S NAME:              ATOOSA NASIRI
