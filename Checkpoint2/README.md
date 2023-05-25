@@ -22,8 +22,10 @@
 
 2. [Part B - Inspecting Local Repo with `git status` and `git log`](#header2)
   The key difference between the command 'git log' and 'git status' is its working area. git status pulls records from staging area and working directory whereas git log pulls the records only from the committed history.
-  
+
   example: git log -n 5 will produce the last 5 commit logs. This output is shown under  PART C.
+
+
          git status: On branch CSN400
          Your branch is up to date with 'origin/CSN400'.
 
@@ -36,6 +38,7 @@
 
 3. [Part C - Creating & Merging Branches](#header3)
       $ git log -n 5
+      
     commit 92748af3c1ca015a142c0fbc5502a600915a980f (HEAD -> CSN400, origin/HEAD, origin/CSN400)
     Author: cshibu-kurian <cshibu-kurian@myseneca.ca>
     Date:   Thu May 25 17:34:18 2023 -0400
