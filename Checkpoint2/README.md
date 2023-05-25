@@ -10,7 +10,23 @@
 
 ** TEACHER'S NAME: ATOOSA NASIRI**
 
-ANSWERS
+
+
+
+
+### Table of Contents
+1. [Part A - Adding Files - Local Repo Workflow](#header1)
+
+
+2. [Part B - Inspecting Local Repo with `git status` and `git log`](#header2)
+
+
+3. [Part C - Creating & Merging Branches](#header3)
+
+
+4. [Part D - Git Branching Strategy Review Question](#header4)
+
+  ANSWERS
 
 1 . The 'main' is where the stable version of the code runs. Whereas the 'develop' branch runs parallel to the 'main' where multiple supporting branches branch out to test new code and released into the stable version.
 
@@ -23,4 +39,5 @@ ANSWERS
 
 3 i. Release branch must be publicly available to all devs.
 ii. Its always upto the Team Lead to merge the release code into 'main' branch with tag.
+
 
