@@ -1,0 +1,9 @@
+POST git-upload-pack (198 bytes)
+From https://github.com/147281208-myseneca/CSN400-Capstone
+ = [up to date]      CSN400      -> origin/CSN400
+ = [up to date]      OPS445      -> origin/OPS445
+ = [up to date]      feat-emojis -> origin/feat-emojis
+Updating afaa217..f1dd358
+Fast-forward
+ Checkpoint3/conflict-resolution/index.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
