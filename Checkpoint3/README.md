@@ -17,7 +17,7 @@
  
      Below is the log file of conflict error-
 
-   ```python
+   
     Pushing to https://github.com/147281208-myseneca/CSN400-Capstone.git
  To https://github.com/147281208-myseneca/CSN400-Capstone.git
   ! [rejected]        CSN400 -> CSN400 (fetch first)
@@ -27,7 +27,7 @@
  hint: to the same ref. You may want to first integrate the remote changes
  hint: (e.g., 'git pull ...') before pushing again.
  hint: See the 'Note about fast-forwards' in 'git push --help' for details.
-   ```
+
 
 
     Below is the log file of overwrite
