@@ -159,4 +159,4 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 4. [Part D - Collaboration - Creating Pull Request]
 
-      Screeshot of pull request added - Screenshot (233)
+       Screeshot of pull request added  Screenshot (233)
