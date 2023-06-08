@@ -25,7 +25,7 @@
 
 2. [Part B - Run Your own container]
 
- copy of dockerfile added under Checkpoint4/
+    copy of dockerfile added under Checkpoint4/
     ![](Screenshots/Screenshot%20(242).png)
     ![](Screenshots/Screenshot%20(243).png)
     ![](Screenshots/Screenshot%20(244).png)
