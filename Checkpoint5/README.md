@@ -100,5 +100,48 @@
 
 4. [Part D - Multi container apps]
 
+    output of SHOW DATABASES;
+         
+         Copyright (c) 2000, 2023, Oracle and/or its affiliates.
 
-   
+         Oracle is a registered trademark of Oracle Corporation and/or it s
+         affiliates. Other names may be trademarks of their respective
+         owners.
+
+         Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+         mysql> SHOW DATABASES;
+         +--------------------+
+         | Database           |
+         +--------------------+
+         | information_schema |
+         | mysql              |
+         | performance_schema |
+         | sys                |
+         | todos              |
+         +--------------------+
+         5 rows in set (0.00 sec)
+
+
+     output of $ dig mysql
+
+        6f7f7caf080c  ~  dig mysql
+
+        ; <<>> DiG 9.18.13 <<>> mysql
+        ;; global options: +cmd
+        ;; Got answer:
+        ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 12337 
+        ;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+        ;; QUESTION SECTION:
+        ;mysql.                         IN      A
+
+        ;; ANSWER SECTION:
+        mysql.                  600     IN      A       172.18.0.2
+
+        ;; Query time: 0 msec
+        ;; SERVER: 127.0.0.11#53(127.0.0.11) (UDP) 
+        ;; WHEN: Sun Jun 11 22:58:32 UTC 2023
+        ;; MSG SIZE  rcvd: 44
+
+
