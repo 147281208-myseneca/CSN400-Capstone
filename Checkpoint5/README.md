@@ -18,6 +18,8 @@
   
      Answer 1 : 
 
+         This can be due to variety of reasons, mainly due to caching mechanisms, changes in the build context, modifications in the Dockerfile, dependencies and external resources, and even parallel builds.
+
      Answer 2 :
  
         The '-t' flag is assigned to specify the tag for the image
@@ -33,6 +35,8 @@
 
      
      Answer 3 :
+
+         Each time the build process produces the same image, such as the same layers and their content, Docker automatically identifies the redundancy and avoids creating duplicate images. 
      
      
      Answer 4 :
@@ -42,7 +46,7 @@
                  Listening on port 3000
 
 
-     Answer 5 :
+     Answer 5 :    port 3000
      
      
      Answer 6 :
@@ -55,7 +59,7 @@
 
      
      
-     Answer 7 :
+     Answer 7 : the time is longer
       
      Answer 8 : 
        
@@ -64,8 +68,17 @@
 
      
      
-     Answer 9 :
+     Answer 9 : 
+         ![](../../../../../../Pictures/Screenshots/Screenshot%20(261).png)
+
+
+
+
 2. [Part B - Share the application]
+
+      ![](../../../../../../Pictures/Screenshots/Screenshot%20(259).png)
+      ![](../../../../../../Pictures/Screenshots/Screenshot%20(260).png)
+
 
 3. [Part C - Persist the DB]
 
@@ -87,3 +100,6 @@
 
 
 4. [Part D - Multi container apps]
+
+
+   
