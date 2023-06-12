@@ -69,15 +69,14 @@
      
      
      Answer 9 : 
-         ![](../../../../../../Pictures/Screenshots/Screenshot%20(261).png)
+        ![](Screenshot%20(261).png)
 
 
 
 
 2. [Part B - Share the application]
-
-      ![](../../../../../../Pictures/Screenshots/Screenshot%20(259).png)
-      ![](../../../../../../Pictures/Screenshots/Screenshot%20(260).png)
+         ![](Screenshot%20(259).png)
+         ![](Screenshot%20(260).png)    
 
 
 3. [Part C - Persist the DB]
